@@ -1,5 +1,5 @@
 # Guess-the-number
-check your luck!
+Check your luck!
 <br>
 By:Ankit Bishnoi
 
